@@ -3,7 +3,6 @@ function login() {
   const password = document.getElementById("password").value.trim();
   const feedback = document.getElementById("feedback");
 
-  // Usuário e senha
   const fakeUser = "cliente123";
   const fakePassword = "123456";
 
